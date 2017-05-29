@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ViewBindingSamples</string>
+
+    <string name="message_no_item">There is no item.</string>
+    <string name="item_name">Item name</string>
+    <string name="add_item">Add item</string>
+</resources>
